@@ -3,7 +3,8 @@
 ### Requirement
 
 1. tensorflow C++ API
-  * (Build only C++ API) [tensorflow_cc](https://github.com/FloopCZ/tensorflow_cc)
+  * (Build only C++ API) [tensorflow_cc](https://github.com/FloopCZ/tensorflow_cc)  
+
 
 '''
 git clone git clone https://github.com/FloopCZ/tensorflow_cc.git
@@ -14,7 +15,8 @@ make
 sudo make install
 '''
 
-2. other libraries
+2. other libraries  
+
 
 '''
 sudo apt-get install build-essential curl git cmake unzip autoconf autogen libtool mlocate zlib1g-dev \
