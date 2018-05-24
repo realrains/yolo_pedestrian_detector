@@ -6,22 +6,22 @@
   * (Build only C++ API) [tensorflow_cc](https://github.com/FloopCZ/tensorflow_cc)  
 
 
-'''
+```
 git clone git clone https://github.com/FloopCZ/tensorflow_cc.git
 cd tensorflow_cc/tensorflow_cc
 mkidr build && cd build
 cmake ..
 make
 sudo make install
-'''
+```
 
 2. other libraries  
 
 
-'''
+```
 sudo apt-get install build-essential curl git cmake unzip autoconf autogen libtool mlocate zlib1g-dev \
 python python3-numpy python3-dev python3-pip python3-wheel
-'''
+```
 
 ### download pretrained model
 
