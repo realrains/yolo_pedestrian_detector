@@ -4,6 +4,7 @@
 
 1. tensorflow C++ API
   * (Build only C++ API) [tensorflow_cc](https://github.com/FloopCZ/tensorflow_cc)
+
 '''
 git clone git clone https://github.com/FloopCZ/tensorflow_cc.git
 cd tensorflow_cc/tensorflow_cc
