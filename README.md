@@ -1,4 +1,4 @@
-# yolo_pedestrian_detector
+# YOLOv3 Pedestrian Detector
 
 ### Requirement
 
